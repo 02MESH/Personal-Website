@@ -3,6 +3,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
+  color: white;
 }
 
 div {
@@ -52,7 +53,7 @@ div {
 }
 
 p {
-  color: #112B3C;
+  color: white;
 }
 
 hr {
