@@ -1,0 +1,62 @@
+body {
+  background-color: #112B3C;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+
+}
+
+.page-ribbon {
+  padding-top:10%;
+  position: static;
+  background-color: black;
+}
+
+.top-container {
+  padding-top:5%;
+  background-color: #F66B0E;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+#cloud1 {
+  height: 10%;
+  width: 15%;
+  position: absolute;
+  right:5%;
+}
+
+#cloud2 {
+  height:10%;
+  width: 15%;
+  position: absolute;
+  left: 5%;
+  top: 30%;
+}
+
+p {
+  color: #112B3C;
+}
+
+hr {
+  color: #F66B0E;
+  width: 20%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+}
+
+h1 {
+  width: 8%;
+  margin: 0 auto 0 auto; /*top&bottom margin = 0, left&right margin = 0*/
+  color: #112B3C;
+  margin-top: 0px;
+}
