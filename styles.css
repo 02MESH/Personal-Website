@@ -2,6 +2,8 @@ body {
   background-color: #112B3C;
   margin: 0;
   text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-top: 10%;
 }
 
 div {
@@ -9,9 +11,11 @@ div {
 }
 
 .page-ribbon {
-  padding-top:10%;
-  position: static;
-  background-color: black;
+  height: 10%;
+  width: 100%;
+  background-color: #112B3C;
+  position: fixed;
+  top:0;
 }
 
 .top-container {
@@ -24,7 +28,12 @@ div {
 }
 
 .bottom-container {
+  padding-bottom: 3%;
+  background-color: #F66B0E;
+}
 
+.footer-link {
+  margin: auto;
 }
 
 #cloud1 {
@@ -55,6 +64,7 @@ hr {
 }
 
 h1 {
+  font-family: 'Merienda', cursive;
   width: 8%;
   margin: 0 auto 0 auto; /*top&bottom margin = 0, left&right margin = 0*/
   color: #112B3C;
