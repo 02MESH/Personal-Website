@@ -21,6 +21,7 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-width: 10px;
+  margin: auto;
 }
 
 h1 {
